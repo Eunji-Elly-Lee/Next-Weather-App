@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Next Weather App",
-  description: "A Next.js application that displays weather information based on the user's city",
+  title: "Mind Plus Journal",
+  description: "Your guided path to positive journaling for mental well-being",
 };
 
 export default function RootLayout({
